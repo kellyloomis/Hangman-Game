@@ -1,0 +1,19 @@
+body {
+	background-color: lightgreen;
+	font-family: Georgia;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#left, #left1 {
+	float: left;
+	margin: 25px;
+	padding: 25px;
+}
+
+#right, #right1 {
+	float: right;
+	margin: 25px;
+	padding: 25px;
+}
